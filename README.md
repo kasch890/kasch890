@@ -3,19 +3,28 @@
 **kasch890/kasch890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20There!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20Github!&fontSize=60)
 
-I'm Kai Fernandes. I'm currently pursuing a master's degree in software development at Boston University and will be graduating summer 2026. Working as 
-an intern at Blank Slate Technologies, I've been building my technical and professional skills by completing UX design and research as well as some small data parsing coding projects. 
+## Hi, I'm Kai Fernandes👋
+I’m a graduate student pursuing a **Master’s degree in Software Development at Boston University**, with an expected graduation in **Summer 2026**.
 
-- 🔭 I’m currently refactoring my game tracking application to improve user experience and reduce technical debt
-- 🌱 I’m currently conducting UX research and design projects through my internship at <a href="https://blankslatetech.co">Blank Slate Technologies</a>
-- 👯 I’m looking to collaborate on beginner/intermediate projects
-- 🤔 I’m looking for help with expanding my skillset 
-- 💬 Ask me about ...
-- 📫 How to reach me: email - kai.fernandes890@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: My favorite video game that I've played recently is Hollow Knight!
+I’m currently an **intern at Blank Slate Technologies**, where I’m building my technical and professional skills through **UX research and design** and **small data-focused programming projects**. I enjoy learning by refactoring existing code, improving scalability, and turning user feedback into better solutions.
 
+## 🌱 About Me
+- 💼 UX research & design intern at [Blank Slate Technologies](https://blankslatetech.co)
+- 👯 Open to collaborating on **beginner to intermediate** projects
+- 🤔 Actively improving my **refactoring and code organization** skills
+- ⚡ Fun fact: My favorite recent game is *Hollow Knight*
+
+## 🚧 Current Projects
+- **Game Tracking Application**  
+  Refactoring user input logic to remove long `elif` chains and improve scalability and maintainability.
+
+- **Data Parsing Pipeline**  
+  Working toward **version 2.0** by incorporating user feedback, improving structure, and adding additional line charts for clearer data visualization.
+
+## 📫 Contact Me
+📧 **Email:** kai.fernandes890@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/kai-fernandes](https://www.linkedin.com/in/kai-fernandes/)
 
 
